@@ -7,3 +7,4 @@ It is based on the [hello_world](https://github.com/SergioBenitez/Rocket/tree/ma
 ## Deployment
 
 See the guide at https://render.com/docs/deploy-rocket-rust.
+eqweqwe
